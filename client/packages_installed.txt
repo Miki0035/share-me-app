@@ -1,0 +1,7 @@
+npm install @sanity/client @sanity/image-url
+npm i @react-oauth/google
+react-icons
+react-loader-spinner
+react-masonry-css   -makes the scrolling stylish
+react-router-dom
+uuid
